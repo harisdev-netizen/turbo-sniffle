@@ -13,7 +13,7 @@ int main()
 	// Assigned the address of a variable to a pointer
 	ptr = &var;
 
-	// Dereferencing/Chaning the value of pointer ptr
+	// Dereferencing/Changing the value of pointer ptr
 	*ptr = 50;
 
 	cout << "Value at var = " << var << "\n";
