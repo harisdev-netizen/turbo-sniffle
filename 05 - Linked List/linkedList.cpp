@@ -23,6 +23,7 @@ void display()
         ptr = ptr->next;
     }
 }
+
 int main()
 {
     insert(3);
